@@ -1,0 +1,35 @@
+body{
+    font-family: 'Orelega One', cursive;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: blue;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50px;
+    padding-left: 2%;
+}
+.half-width img{
+
+    width: 80%;
+
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato  brown);
+    padding: 10px 40px;
+    color: burlywood;
+    font-weight: 700;
+    border-radius:5px ;
+
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
